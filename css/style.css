@@ -64,3 +64,12 @@
 .space-nome{
     justify-content: space-evenly;
 }
+
+.exercicioB{
+    flex-direction: column-reverse;
+}
+
+.desafio{
+    flex-direction: row-reverse;
+    justify-content:start;
+}
